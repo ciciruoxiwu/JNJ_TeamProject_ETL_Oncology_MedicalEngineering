@@ -10,7 +10,8 @@ The project results focus on three research areas:
 2. Team 2: Patient Profiling - Extracting demographic data to categorize patient groups.
 3. Team 3: Sentiment Analysis - Evaluating the emotional tone in patient conversations.
 
-Team Setting: 
+Team Setting
+
 Project Lead: Ruoxi Wu, Toshi Thatte
 
 Team 1 members: Abhinav Krishnan, Shu-rong Lin, Richard Renzi, Mary Kaka
