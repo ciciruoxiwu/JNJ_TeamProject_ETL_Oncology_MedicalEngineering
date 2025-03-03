@@ -13,9 +13,9 @@ The project results focus on three research areas:
 Team Setting: 
 Project Lead: Ruoxi Wu, Toshi Thatte
 
-Team 1 members: Abhinav Krishnan, Shu-rong Lin, Richard Renzi; Mary Kaka
+Team 1 members: Abhinav Krishnan, Shu-rong Lin, Richard Renzi, Mary Kaka
 
-Team 2 members: Emma Mahan, 
+Team 2 members: Emma Mahan, Daniel Chen, Gayatri Chaudhary, Pauline Estantsi, Sanjana Mohan, Dhanush Manjunath
 
 Team 3 members: Jacob Hill, Prabjyot Sahota, Saanya Kankaria, Nathan Schultz, Yijia Pan
 
